@@ -1,7 +1,7 @@
 local ai = {
   about {
     _name = "ReBlox Intelligence",
-    _model = "reblox@1o
+    _model = "ollas@1o
   }
 } -- Table AI
 table.freeze(ai.about) -- Anti-Edit Remote
